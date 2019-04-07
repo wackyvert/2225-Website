@@ -25,7 +25,7 @@ class App extends Component {
                 R.U.S.T. 2225 - Who are we?
             </h1>
             <p>
-                Established in 2007, Robots Uniting Students Together or "R.KU.S.T." aims to do what our name implies
+                Established in 2007, Robots Uniting Students Together or "R.U.S.T." aims to do what our name implies
                 - unite students of Champlin Park together, through the fun that is the First Robotics Competition.
             </p>
             <hr/>
